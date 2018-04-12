@@ -1,0 +1,15 @@
+Para autenticar via CLI do Openshift
+
+    oc login -u system:admin --insecure-skip-tls-verify
+    oc login https://<seu ip publico>:8443 --username=admin
+
+Para limpar o Namespace/Projeto
+
+    oc delete all --all -n workshop
+
+Referencias
+
+https://legacy.gitbook.com/book/redhat-sa-brazil/workshop-openshift/details
+https://redhat-sa-brazil.gitbooks.io/workshop-openshift/content/parte1/parte-1-linux-containers.html
+https://redhat-sa-brazil.gitbooks.io/workshop-openshift/content/parte2/parte-2-openshift-dev.html
+https://redhat-sa-brazil.gitbooks.io/workshop-openshift/content/parte3/parte-3-openshift-ops.html
