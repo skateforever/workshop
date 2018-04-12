@@ -13,3 +13,7 @@ https://legacy.gitbook.com/book/redhat-sa-brazil/workshop-openshift/details
 https://redhat-sa-brazil.gitbooks.io/workshop-openshift/content/parte1/parte-1-linux-containers.html
 https://redhat-sa-brazil.gitbooks.io/workshop-openshift/content/parte2/parte-2-openshift-dev.html
 https://redhat-sa-brazil.gitbooks.io/workshop-openshift/content/parte3/parte-3-openshift-ops.html
+http://blog.marcelocavalcante.net/blog/2018/04/01/chef-aautomacao-e-gerenciamento-de-configuracao/
+http://www.propus.com.br/infraestrutura-agil-com-as-ferramentas-de-automacao-puppet-chef-ansible-e-salt/
+http://gutocarvalho.net/octopress/2014/05/09/entenda-o-vagrant/
+https://www.ansible.com/resources/get-started
