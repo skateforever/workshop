@@ -7,6 +7,10 @@ Para limpar o Namespace/Projeto
 
     oc delete all --all -n workshop
 
+Para criar a app usando S2I via CLI:
+    
+    oc new-app https://github.com/<seu-usuario>/workshop-ocp.git -n workshop
+
 Referencias
 
 https://legacy.gitbook.com/book/redhat-sa-brazil/workshop-openshift/details
